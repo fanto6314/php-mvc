@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/fanto6314/php-google-auth">
+    <a href="https://www.codefactor.io/repository/github/fanto6314/php-mvc"><img src="https://www.codefactor.io/repository/github/fanto6314/php-mvc/badge" alt="CodeFactor" /></a>
+  </a>
+</p>
+
 <br />
 <p align="center">
   <a href="https://github.com/fanto6314/php-google-auth">
